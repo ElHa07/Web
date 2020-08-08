@@ -6,7 +6,7 @@
 .menu {
     width: 900px;
     margin: 150px auto;
-    background-color: black;
+    background-color: #f44336;
     text-align: center;
 }
 
@@ -16,6 +16,15 @@
     margin: 0 10px;
 }
 
-a:hover {
-    color: red;
+a:link, a:visited{
+	background-color: #f44336;
+	color: white;
+	padding: 14px 25px;
+	text-align:center;
+	text-decoration:none;
+	display: inline-block;
+}
+
+ a:hover, a:active {
+    background-color: red;
 }
