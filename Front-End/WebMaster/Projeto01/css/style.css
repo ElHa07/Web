@@ -109,6 +109,9 @@ html,body{
   cursor: pointer;
 }
 .button {
+	width: 250px;
+}
+.button {
   background-color: white;
   color: black;
   border: 2px solid #555555;
