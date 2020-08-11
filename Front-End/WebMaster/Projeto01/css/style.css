@@ -163,3 +163,27 @@ html,body{
 	background-image: url('../images/arrow.png');
 	background-size: 100% 100%;
 }
+.section-1{
+	padding:90px 0;
+}
+.section-1 h2{
+	text-align: center;
+	font-weight: normal;
+}
+.container-section{
+	margin-top:40px;
+}
+.container-section{
+	text-align:center;
+}
+.container-single{
+	float:left;
+	width:33.333%;
+}
+.container-single p{
+	text-align:justify;
+	padding:10px 25px;
+}
+.container-single img{
+	width: 70px;
+}
