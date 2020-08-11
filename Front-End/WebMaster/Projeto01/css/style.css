@@ -117,4 +117,49 @@ html,body{
   border: 2px solid #555555;
 }
 
-.button:hover {background-color: #555555;}
+.button:hover {
+	background-color: #555555;
+	
+}
+.container-list{
+	padding: 30px;
+	margin-top: 40px;
+	float:left;
+	width:619px;
+	height:270px;
+	background-color: rgba(33,35,67,0.7);
+}
+.container-list ul{
+	list-style-position: inside;
+	
+}
+.container-list ul li {
+		margin-top: 15px;
+		color: white;
+}
+.container-2{
+	padding:40px;
+	background-color: rgba(33,35,67,0.7);
+	text-align: center;
+}
+.container-2 h2{
+	color: white;
+	font-weight: normal;
+}
+.container-2 p{
+	color: white;
+	width:698px;
+	margin: 15px 0;
+	display:inline-block;
+	text-align: justify;
+}
+.arrow{
+	position: relative;
+	top:60px;
+	left:50%;
+	margin-left: -20px;
+	width: 40px;
+	height: 40px;
+	background-image: url('../images/arrow.png');
+	background-size: 100% 100%;
+}
