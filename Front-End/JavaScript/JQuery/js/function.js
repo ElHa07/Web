@@ -20,9 +20,11 @@ $(function() {
 	
 	$('.box2').text("<div></div>");
 	$('.box2').text("Olá Mundo!");
-	*/
+	
 	$('input[type=button]').click(function(){
 		var v = $('input[type=text]').var();
 		var var2 = v.split("@");
 	})
+	*/
+	$('.box').append('<h3>Meu elemento adicionado dinamicamente</h3>');
 });
