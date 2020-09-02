@@ -1,11 +1,17 @@
-*{
-	margin:0;
-	padding:0;
-	box-sizing: border-box;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-html,body{
-	height: 100%;
+
+html,body {
+    height: 100%;
 }
-body{
+.box{
+	width:100%;
+	padding:30px;
 	background-color: gold;
+}
+h1.text1{
+	color: white;
 }
