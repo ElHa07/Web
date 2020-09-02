@@ -25,6 +25,18 @@ $(function() {
 		var v = $('input[type=text]').var();
 		var var2 = v.split("@");
 	})
-	*/
 	$('.box').append('<h3>Meu elemento adicionado dinamicamente</h3>');
+	*/
+	
+	
+	$('.form_contato').submit(function(){
+		
+		var container = $('.container');
+		var content = 'Nome:' + $('input[name=name]').val() + 
+		'<hr>E-mail:'+ $('input[name=email]').val() +
+		'<hr> Telefone:'
+		+ $('input[name=telefone]').val();
+		container.html(content);
+		return false;
+	})
 });
