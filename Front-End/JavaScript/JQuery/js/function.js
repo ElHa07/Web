@@ -26,7 +26,7 @@ $(function() {
 		var var2 = v.split("@");
 	})
 	$('.box').append('<h3>Meu elemento adicionado dinamicamente</h3>');
-	*/
+	
 	
 	
 	$('.form_contato').submit(function(){
@@ -39,4 +39,7 @@ $(function() {
 		container.html(content);
 		return false;
 	})
+	*/
+	
+	
 });
