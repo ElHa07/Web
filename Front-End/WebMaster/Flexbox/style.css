@@ -1,0 +1,122 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+/* Classes gerais - Framework */
+
+.text-white{
+	color: white;
+}
+
+.gold{
+	background-color:gold;
+}
+
+.light-blue{
+	background-color:#00A3D9; 
+}
+
+section.container{
+	width: 100%;
+}
+
+div.flex{
+	display: flex;
+	max-width: 960px;
+	padding:0 2%;
+	margin:0 auto;
+	flex-wrap: wrap;
+	float:center;
+}
+
+div.w50{
+	width: 50%;
+}
+
+div.w33{
+	width: 33,3%;
+}
+
+div.w100{
+	width: 100%;
+}
+
+.left{
+	text-align: left;
+}
+
+.right{
+	text-align: right;
+}
+
+.center{
+	text-align: center;
+}
+
+
+.order1{
+	order: 1;
+}
+
+.order2{
+	order: 2;
+}
+
+.order3{
+	order: 3;
+}
+
+
+/*Classes especificas para nosso site*/
+header.topo-site{
+	padding: 20px 0;
+}
+
+.logo{
+	font-size:22px;
+	font-family: 'Mouse Memoirs', sans-serif;
+}
+
+header.topo-site ul li{
+	position: relative;
+	top: 4px;
+	padding: 0 20px;
+	font-size: 17px;
+	display: inline-block;
+}
+
+header.topo-site a{
+	text-decoration: none;
+}
+
+.slider{
+	min-height: 600px;
+}
+
+.slider p{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	font-size: 30px;
+	display: inline-block;
+	border-bottom: 4px solid white;
+	color:white;	
+}
+
+.promo{
+	padding:40px 0;
+	background: #F71735;
+}
+
+@media screen and (max-width: 768px){
+	div.w50,div.33{
+		width: 100%;
+	}
+	
+	.left,.right,.center{
+		margin-bottom:10px;
+		text-align:center;
+	}
+}
