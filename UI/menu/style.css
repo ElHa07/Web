@@ -3,27 +3,63 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+    
 .container {
     max-width: 960px;
     padding: 0 2%;
     margin: 0 auto;
 }
-
+    
 .clear {
     clear: both;
 }
-
+    
 header {
-    background: #333;
-    padding: 8 0px;
+    background: gold;
+    padding: 28 0px;
 }
-
+    
 .logo-desktop {
     float: left;
 }
-
+    
 .logo-desktop a {
     color: white;
     font-size: 18px;
+}
+    
+nav .mobile {
+    display: none;
+}
+    
+nav.desktop {
+    float: right;
+}
+    
+nav.desktop li {
+    display: inline-block;
+    padding: 0 15px;
+}
+    
+nav.desktop a {
+    color: white;
+    text-decoration: none;
+}
+nav.desktop a:hover{
+	text-decoration: undeerline;
+}
+@media screen and(max-width: 768px){
+	.logo-desktop,
+	nav.desktop{
+		display: none;
+	}
+	.logo-mobile a{
+		color:white;
+		font-size:18px;
+	}
+	nav.mobile{
+		text-align: center;
+		display: block;
+		width: 100%;
+	}
 }
