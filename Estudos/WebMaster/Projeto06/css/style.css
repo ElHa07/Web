@@ -107,7 +107,7 @@ nav.desktop a{
 .chamada-planos{
 	width: 100%;
 	text-align: center;
-	padding: 12pz 2%;
+	padding: 12px 2%;
 	background: #9d4edd;
 }
 .chamada-planos h2{
@@ -115,5 +115,53 @@ nav.desktop a{
 	color: white;
 	text-transform: uppercase;
 	font-weight: lighter;
-	font-size: 25px;
+	font-size: 23px;
+}
+.box-planos{
+	padding: 40px 0;
+}
+.box-planos > .center{
+	display: flex;
+	flex-wrap: nowrap;
+}
+.box-planos-single{
+	width: 33,3%;
+	padding: 0 50px;
+}
+.box-wraper{
+	width: 100%;
+	border: 1px solid #ccc;
+	min-height: 200px;
+	-webkit-box-shadow: 22px 27px 28px -4px rgba(0,0,0,0.64);
+	-moz-box-shadow: 22px 27px 28px -4px rgba(0,0,0,0.64);	
+	box-shadow: 22px 27px 28px -4px rgba(0,0,0,0.64);
+}
+
+.box-planos-single h3{
+	background: #9d4edd;
+	color: white;
+	text-align: center;
+	padding: 5px;
+	font-weight: lighter;
+}
+.pontos-planos{
+	padding: 15px 0 15px 0px;
+	
+}
+.box-planos-single p{
+	color:#777777;
+	font-size: 20px;
+	margin-top:10px;
+	
+}
+.button-saiba-mais a{
+	display: block;
+	width: 187px;
+	height: 44px;
+	background: #9d4edd;
+	color: white;
+	text-align: center;
+	line-height: 44px;
+	text-decoration: none;
+	margin-top: 18px;
 }
