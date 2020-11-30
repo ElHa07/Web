@@ -122,7 +122,7 @@ nav.desktop a{
 }
 .box-planos > .center{
 	display: flex;
-	flex-wrap: nowrap;
+	flex-wrap: wrap;
 }
 .box-planos-single{
 	width: 33,3%;
@@ -164,4 +164,7 @@ nav.desktop a{
 	line-height: 44px;
 	text-decoration: none;
 	margin-top: 18px;
+}
+@media screen and (max-width: 768px){
+	.box-planos-single{width: 100%;margin:10px 0;}
 }
