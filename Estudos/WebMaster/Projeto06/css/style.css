@@ -100,8 +100,20 @@ nav.desktop a{
 	background: #9d4edd;
 	color: white;
 	text-align: center;
-	line-height:44px;
+	line-height: 44px;
 	text-decoration: none;
-	margin-top: 20px;
-	
+	margin-top: 18px;
+}
+.chamada-planos{
+	width: 100%;
+	text-align: center;
+	padding: 12pz 2%;
+	background: #9d4edd;
+}
+.chamada-planos h2{
+	display: inline-block;
+	color: white;
+	text-transform: uppercase;
+	font-weight: lighter;
+	font-size: 25px;
 }
