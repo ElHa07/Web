@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Teleperformance\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Teleperformance\\.nuget\\packages"
+    ]
+  }
+}

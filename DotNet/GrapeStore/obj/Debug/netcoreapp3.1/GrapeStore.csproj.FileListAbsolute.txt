@@ -1,0 +1,13 @@
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\bin\Debug\netcoreapp3.1\GrapeStore.exe
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\bin\Debug\netcoreapp3.1\GrapeStore.deps.json
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\bin\Debug\netcoreapp3.1\GrapeStore.runtimeconfig.json
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\bin\Debug\netcoreapp3.1\GrapeStore.runtimeconfig.dev.json
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\bin\Debug\netcoreapp3.1\GrapeStore.dll
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\bin\Debug\netcoreapp3.1\GrapeStore.pdb
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\obj\Debug\netcoreapp3.1\GrapeStore.csprojAssemblyReference.cache
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\obj\Debug\netcoreapp3.1\GrapeStore.AssemblyInfoInputs.cache
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\obj\Debug\netcoreapp3.1\GrapeStore.AssemblyInfo.cs
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\obj\Debug\netcoreapp3.1\GrapeStore.csproj.CoreCompileInputs.cache
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\obj\Debug\netcoreapp3.1\GrapeStore.dll
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\obj\Debug\netcoreapp3.1\GrapeStore.pdb
+C:\Users\Teleperformance\Desktop\Curso\Web\DotNet\GrapeStore\obj\Debug\netcoreapp3.1\GrapeStore.genruntimeconfig.cache
